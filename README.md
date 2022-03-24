@@ -1,2 +1,2 @@
 # Hello-world
-learn and test git
+learn and test git for use
